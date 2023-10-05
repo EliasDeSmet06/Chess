@@ -1,4 +1,4 @@
-https://github.com/EliasDeSmet06/Chess/issues/1#issue-1928792469
+
 <img src="Schaakbord.xcf" alt="schaakbord" usemap="#html bestanden">
 
 <map name="html bestanden">
