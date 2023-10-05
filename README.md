@@ -9,7 +9,7 @@ div{background-color: green;}
   <h1>Schaakbord</h1>
   <p>Klik op de schaakstukken om te zien wat ze kunnen doen.</p>
 
-<img src="Schaakbord.xcf" alt="schaakbord" usemap="#schaakbord">
+<img src="https://user-images.githubusercontent.com/147090825/272998511-528b12ac-ce29-4435-b14f-518566b20138.jpg" alt="schaakbord" usemap="#schaakbord">
 
 <map name="html bestanden">
 
