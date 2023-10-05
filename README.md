@@ -11,7 +11,7 @@ div{background-color: green;}
 
 <img src="Schaakbord.xcf" alt="schaakbord" usemap="#schaakbord">
 
-<map name="workmap">
+<map name="html bestanden">
 
   <area shape="rect" coords="51,681,131, 602" alt="toren" href="toren.htm">
  <area shape="rect" coords="131,681,209, 602" alt="paard" href="paard.htm">
