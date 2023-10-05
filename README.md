@@ -11,7 +11,7 @@ div{background-color: green;}
 
 <img src="https://user-images.githubusercontent.com/147090825/272998511-528b12ac-ce29-4435-b14f-518566b20138.jpg" alt="schaakbord" usemap="#schaakbord">
 
-<map name="html bestanden">
+<map name="schaakbord">
 
   <area shape="rect" coords="51,681,131, 602" alt="toren" href="https://user-images.githubusercontent.com/147090825/273023014-913ae89a-dd8d-4d95-bc76-7a8a2fab9603.png">
  <area shape="rect" coords="131,681,209, 602" alt="paard" href="https://user-images.githubusercontent.com/147090825/273023095-ee219106-6038-4947-8cac-2097aea6cb7f.png">
