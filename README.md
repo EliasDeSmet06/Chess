@@ -7,6 +7,7 @@ div{background-color: green;}
 <body>
   <div>
   <h1>Schaakbord</h1>
+  <p>Klik op de schaakstukken om te zien wat ze kunnen doen.</p>
 
 <img src="Schaakbord.xcf" alt="schaakbord" usemap="#schaakbord">
 
